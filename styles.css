@@ -3,13 +3,13 @@ h1 {
   text-align: center;
 }
 
-img{
+img {
   height: 500px;
   width: 500px;
-  border: solid 10px blue
+  border: solid 10px blue;
 }
 
-#first{
+#first {
   height: 200px;
   width: 200px;
   border: 0
